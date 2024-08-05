@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Janani Sivaraj
+- 👀 I’m interested in Automation Testing
+- 🌱 I’m currently learning Selenium, Java, TestNG, Cucumber
+- 📫 Email: jananisivaraj1@gmail.com
